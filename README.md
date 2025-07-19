@@ -30,10 +30,4 @@ The BI system provides:
 | `Faults.png`              | Dashboard tab focused on fault analysis (EWF), including breakdowns by OS, country, time, and year comparison. |
 ---
 
-## 📷 Screenshots
 
-<!-- Add image links below. You can upload the images to the repo and then reference them like this: -->
-<!-- ![Dashboard Overview](images/dashboard_overview.png) -->
-<!-- ![CPM and Fill Rate Visualization](images/kpis_section.png) -->
-
----
