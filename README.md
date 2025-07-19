@@ -19,12 +19,15 @@ The BI system provides:
 
 ## 📁 Files in this Repository
 
-| File Name                    | Description                                      |
-|-----------------------------|--------------------------------------------------|
-| `System Analysis.pdf`       | Documents the business requirements, data structure, and rationale for the BI system. |
-| `System Implementation.pdf` | Includes screenshots of the Power BI dashboard and explanations of its components. |
-| `AdTech Dashboard.pbix`     | The Power BI Desktop file containing the full report and data model. |
-
+| File Name                 | Description |
+|---------------------------|-------------|
+| `README.md`               | Main documentation file. Describes the BI solution, goals, and structure of the repository. |
+| `System Analysis.pdf`     | Details the business requirements, data model (fact/dimension), KPI definitions, and design considerations for the BI solution. |
+| `System Implementation.pdf` | Explains the implementation of the dashboard in Power BI, including measures, navigation, and calculated fields. |
+| `AdTech Dashboard.pbix`   | The Power BI Desktop file containing the full report and data model. |
+| `Revenues.png`            | Dashboard tab showing revenue metrics such as CPM, monthly trends, and publisher breakdowns. |
+| `User Activity.png`       | Dashboard tab showing impressions, inventory, fill rate by publisher, repeat views, and user demographic data. |
+| `Faults.png`              | Dashboard tab focused on fault analysis (EWF), including breakdowns by OS, country, time, and year comparison. |
 ---
 
 ## 📷 Screenshots
